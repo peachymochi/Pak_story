@@ -5,7 +5,7 @@ Use the necessary comments and print statements in your code.
 """
 def addSix(n):
     print ("You're number " + str(n) + " plus six is " +str(n+6))
-    return n
+    return n+6
     
 n = int(input("Please enter a number and I'll add six to it: "))    
  
